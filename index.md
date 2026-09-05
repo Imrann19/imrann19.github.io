@@ -6,7 +6,7 @@ title: Home
 # 👋 Welcome to my Portfolio
 
 Hi, I'm **Imrann Aseervatham**.  
-I'm currently in **10th grade (European Section) at Lycée Alfred Kastler, Cergy (France)**.  
+I'm currently in **11th grade (European Section) at Lycée Alfred Kastler, Cergy (France)**.  
 Interested in **Math, Science, AI, and Ethical Hacking**.  
 My dream is to **join MIT** and one day work at **Microsoft** or **Google**.  
 
